@@ -133,6 +133,13 @@ footer {
     margin-top: 50px;
     margin-bottom: 30px;
 }
+#footer_r{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-weight: 600;
+    padding-bottom: 0!important;
+}
 
 #useful_links {
     flex: 2;
